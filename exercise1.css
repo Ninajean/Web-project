@@ -1,10 +1,12 @@
 
     h1 {
-      color: green;
+      color: red;
     }
   p {
     color: #FFFFFF;
+
     font-family: tahoma;
+
     size: 16px;
   }
       ul {
@@ -13,7 +15,7 @@
       }
 
     h2{
-      color: black;
+      color: green;
       background-color: orange;
       font: helvetica;
     }
@@ -21,7 +23,7 @@
         p{
           color: red;
           font-family: helvetica;
-          size: 60px;
+          size: 16px;
         }
 
     ol {
