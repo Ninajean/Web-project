@@ -4,7 +4,7 @@
     }
   p {
     color: #FFFFFF;
-    font-family: arial;
+    font-family: tahoma;
     size: 16px;
   }
       ul {
@@ -15,10 +15,11 @@
     h2{
       color: black;
       background-color: orange;
+      font: helvetica;
     }
 
         p{
-          color: blue;
+          color: red;
           font-family: helvetica;
           size: 60px;
         }
