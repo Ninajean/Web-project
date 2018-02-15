@@ -1,10 +1,10 @@
 
     h1 {
-      color: red;
+      color: green;
     }
   p {
     color: #FFFFFF;
-    font-family: helvetica;
+    font-family: arial;
     size: 16px;
   }
       ul {
@@ -13,14 +13,14 @@
       }
 
     h2{
-      color: green;
+      color: black;
       background-color: orange;
     }
 
         p{
           color: blue;
           font-family: helvetica;
-          size: 16px;
+          size: 60px;
         }
 
     ol {
