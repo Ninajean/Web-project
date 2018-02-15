@@ -1,0 +1,29 @@
+
+    h1 {
+      color: red;
+    }
+  p {
+    color: #FFFFFF;
+    font-family: helvetica;
+    size: 16px;
+  }
+      ul {
+        list-style-type: unordered;
+        background-color: yellow;
+      }
+
+    h2{
+      color: green;
+      background-color: orange;
+    }
+
+        p{
+          color: blue;
+          font-family: helvetica;
+          size: 16px;
+        }
+
+    ol {
+      list-style-type: ordered;
+      background-color: teal;
+    }
